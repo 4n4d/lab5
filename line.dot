@@ -1,0 +1,6 @@
+graph Line {
+      a -- b;
+      b -- d;
+      e -- d;
+      e -- c;
+}
