@@ -1,0 +1,5 @@
+graph Lonely {
+      a -- a;
+      b -- b;
+      b -- c;
+}

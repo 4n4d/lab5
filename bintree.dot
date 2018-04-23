@@ -1,0 +1,10 @@
+graph Bintree {
+      a -- b;
+      a -- c;
+      b -- d;
+      b -- e;
+      c -- f;
+      c -- g;
+      d -- h;
+      d -- i;
+}
